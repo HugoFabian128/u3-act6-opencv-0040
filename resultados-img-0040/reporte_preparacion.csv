@@ -1,0 +1,11 @@
+Categoría,Archivo original,Lectura,Ancho original,Alto original,Ancho preparado,Alto preparado,Valor mínimo norm.,Valor máximo norm.,Evaluación
+imagen-cereza,cereza1.jpg,OK,1080,1080,224,224,0.0,1.0,APROBADA
+imagen-cereza,cereza2.jpg,OK,1080,1080,224,224,0.0,1.0,APROBADA
+imagen-cereza,cereza3.jpeg,OK,547,365,224,224,0.0,1.0,APROBADA
+imagen-cereza,cereza4.jpg,OK,525,350,224,224,0.0,1.0,APROBADA
+imagen-cereza,cereza5.png,OK,580,600,224,224,0.0,1.0,APROBADA
+imagen-uva,uva-fruto.jpg,OK,820,513,224,224,0.0,0.996,APROBADA
+imagen-uva,uva2.jpg,OK,696,435,224,224,0.0,1.0,APROBADA
+imagen-uva,uva3.jpeg,OK,554,554,224,224,0.0,1.0,APROBADA
+imagen-uva,uva4.png,OK,540,540,224,224,0.0,0.988,APROBADA
+imagen-uva,uva5.avif,OK,3000,4499,224,224,0.0,1.0,APROBADA
